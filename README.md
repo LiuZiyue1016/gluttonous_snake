@@ -9,5 +9,6 @@ git clone --recursive https://github.com/jiaweihe1996/GMTracker
 - torchvision 
 ```setup
 conda env create -f environment.yml
+```
 3.start
 - python gluttonous_snake.py
