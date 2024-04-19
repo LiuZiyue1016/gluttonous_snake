@@ -1,7 +1,7 @@
 # gluttonous_snake
 1. Clone this repository:
 ```clone
-git clone --recursive https://github.com/jiaweihe1996/GMTracker
+git clone --recursive https://github.com/LiuZiyue1016/gluttonous_snake
 ```
 2. Install requirements:
 - Python == 3.7.X
