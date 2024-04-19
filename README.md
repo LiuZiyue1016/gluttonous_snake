@@ -12,5 +12,5 @@ conda env create -f environment.yml
 ```
 3. Start
 ```
-- python gluttonous_snake.py
+python gluttonous_snake.py
 ```
