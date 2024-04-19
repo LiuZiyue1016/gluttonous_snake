@@ -11,4 +11,6 @@ git clone --recursive https://github.com/jiaweihe1996/GMTracker
 conda env create -f environment.yml
 ```
 3. Start
+```
 - python gluttonous_snake.py
+```
